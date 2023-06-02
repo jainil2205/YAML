@@ -1,0 +1,15 @@
+"Target 1" : "to complete devops bootcamp"
+"Target 2" : "to complete ML bootcamp"
+
+# LISTS
+-apple
+-mangoe
+-banana
+--- 
+# to start document
+cities:
+ -mumbai
+ -indore
+ -gujrat
+ ...
+#  to end yaml file
